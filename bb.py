@@ -1,4 +1,4 @@
-import numpy as np
+import numpy as np # Kod för graf
 import matplotlib.pyplot as plt
 
 def f(x):
