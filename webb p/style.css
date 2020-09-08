@@ -1,0 +1,24 @@
+
+style
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 500px;
+    color: silver;
+    
+}
+
+.background {
+    background-color:grey
+}
+
+
+.bild {
+     width: 500px
+     
+}
+
+.container-1 {
+ display: flex;
+justify-content:center;
+}
+

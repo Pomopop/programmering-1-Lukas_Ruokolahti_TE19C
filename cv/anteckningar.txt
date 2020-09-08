@@ -1,0 +1,5 @@
+färger start sida:
+
+färger andra sidor:
+
+Alla sidor förutom start sidan ska vara identiska. 
