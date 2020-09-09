@@ -1,0 +1,28 @@
+.background {
+background-color: grey
+
+}
+
+h1 {
+font-size: 40px;
+font-family: 'Oswald', sans-serif;
+
+}
+
+.container-1 {
+display: flex;
+justify-content: center;
+padding-top: 20px;
+}
+
+.link {
+display: flex;
+font-size: 29px;
+text-align: center;
+width: 22.4%;
+display: inline-block;
+color: black;
+font-family: 'Oswald', sans-serif;
+
+}
+
