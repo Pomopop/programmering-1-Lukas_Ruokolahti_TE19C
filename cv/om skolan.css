@@ -25,3 +25,9 @@ h1 {
     color: black;
     font-family: 'Oswald', sans-serif;
 }
+
+h2 {
+    padding-left:25%;
+    padding-right:25%;
+    font-size: 20px;
+}
