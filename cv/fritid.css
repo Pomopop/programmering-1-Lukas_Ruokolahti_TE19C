@@ -1,0 +1,46 @@
+.background {
+    background-color:white
+}
+
+
+h1 {
+    font-size: 40px;
+    font-family: 'Oswald', sans-serif;
+    padding-top: 0%;
+    
+}
+
+.container-1 {
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+.link {
+    display: flex;
+    font-size: 29px;
+    text-align: center;
+    width: 22.4%;
+    display: inline-block;
+    color: black;
+    font-family: 'Oswald', sans-serif;
+    padding-bottom: 10px;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+}
+
+
+h2 {
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+
+img {
+    width: 1265px;
+    height: 300px;
+    
+}
