@@ -1,0 +1,14 @@
+.container {
+    display:flex;
+    height: 300px;
+    justify-content: space-between;
+    align-items: flex-end;
+
+}
+
+.item {width: 14%;}
+.item-1 {height:40%;}
+.item-2 {height:50%;}
+.item-3 {height:60%;}
+.item-4 {height:20%;}
+.item-5 {height:30%;}
